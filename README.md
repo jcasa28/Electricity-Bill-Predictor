@@ -4,59 +4,59 @@ A machine learning model developed in Google Colab to predict electricity bills 
 
 📌 Features
 
-  Data Preprocessing (Handling missing values, encoding, scaling)
+  - Data Preprocessing (Handling missing values, encoding, scaling)
 
-  Model Training & Evaluation (Linear Regression, Decision Tree, Random Forest)
+  - Model Training & Evaluation (Linear Regression, Decision Tree, Random Forest)
 
-  Visualization of Predictions using Matplotlib
+  - Visualization of Predictions using Matplotlib
 
-  Performance Metrics Calculation (Accuracy, MAE, MSE, RMSE)
+  - Performance Metrics Calculation (Accuracy, MAE, MSE, RMSE)
 
 📂 Project Structure
 
-  Electricity_bill_predictor.ipynb: Jupyter Notebook with code implementation
+  - Electricity_bill_predictor.ipynb: Jupyter Notebook with code implementation
 
-  README.md: Project documentation
+  - README.md: Project documentation
 
 🚀 Getting Started
 
-  Requirements
+  Requirements:
 
-  Python 3.x
+  - Python 3.x
 
-  Google Colab or Jupyter Notebook
+  - Google Colab or Jupyter Notebook
 
-  Pandas
+  - Pandas
 
-  NumPy
+  - NumPy
 
-  Scikit-Learn
+  - Scikit-Learn
 
-  Matplotlib
+  - Matplotlib
 
-  Installation
+Installation
 
 Clone the repository:
 
-  '''$ git clone https://github.com/your-username/Electricity-Bill-Predictor.git'''
+  ```$ git clone https://github.com/your-username/Electricity-Bill-Predictor.git```
 
 Install the dependencies:
 
-  '''$ pip install pandas numpy scikit-learn matplotlib'''
+  ```$ pip install pandas numpy scikit-learn matplotlib```
 
   Run the Notebook in Google Colab or Jupyter Notebook.
 
 📊 Results
 
-  Achieved an accuracy of 85% using Random Forest model.
+  - Achieved an accuracy of 85% using Random Forest model.
 
-  Improved prediction reliability by implementing feature scaling and hyperparameter tuning.
+  - Improved prediction reliability by implementing feature scaling and hyperparameter tuning.
 
 📈 Future Improvements
 
-  Deploy the model using Streamlit or Flask for web-based accessibility.
+  - Deploy the model using Streamlit or Flask for web-based accessibility.
 
-  Experiment with additional machine learning models for improved accuracy.
+  - Experiment with additional machine learning models for improved accuracy.
 
 📜 License
 
